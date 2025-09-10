@@ -1,0 +1,19 @@
+.container {
+  background-color: red;
+  font-size: 40px;
+  color: white;
+  font-weight: 600;
+  text-align: center;
+}
+
+.green_container {
+  background-color: green;
+  color: white;
+}
+
+button {
+  background-color: orange;
+  border: 1px solid black;
+  height: 20px;
+  width: auto;
+}
